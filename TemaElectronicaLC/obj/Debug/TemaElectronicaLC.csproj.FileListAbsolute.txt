@@ -1,0 +1,9 @@
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\bin\Debug\TemaElectronicaLC.exe.config
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\bin\Debug\TemaElectronicaLC.exe
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\bin\Debug\TemaElectronicaLC.pdb
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\obj\Debug\TemaElectronicaLC.csprojResolveAssemblyReference.cache
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\obj\Debug\TemaElectronicaLC.Form1.resources
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\obj\Debug\TemaElectronicaLC.Properties.Resources.resources
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\obj\Debug\TemaElectronicaLC.csproj.GenerateResource.Cache
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\obj\Debug\TemaElectronicaLC.exe
+E:\Media\Development\Windows\Projects\TemaElectronicaLC\TemaElectronicaLC\obj\Debug\TemaElectronicaLC.pdb
